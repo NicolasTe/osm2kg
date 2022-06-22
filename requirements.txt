@@ -1,4 +1,4 @@
-numpy==1.15.4
+numpy==1.22.0
 psycopg2==2.7.6.1
 imbalanced_learn==0.4.3
 tensorflow==1.12.0
